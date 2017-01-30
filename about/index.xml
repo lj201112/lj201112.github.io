@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on 明月清风</title>
-    <link>https://lj201112.github.io/about/index.xml</link>
-    <description>Recent content in Abouts on 明月清风</description>
+    <title>Abouts on Blog Title</title>
+    <link>http://nodejh.com/about/index.xml</link>
+    <description>Recent content in Abouts on Blog Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <atom:link href="https://lj201112.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate>
+    <atom:link href="http://nodejh.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>关于我</title>
-      <link>https://lj201112.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>http://nodejh.com/about/</link>
+      <pubDate>Sat, 20 Jun 2015 14:02:37 +0200</pubDate>
       
-      <guid>https://lj201112.github.io/about/</guid>
+      <guid>http://nodejh.com/about/</guid>
       <description>
-
-&lt;h1 id=&#34;hello-world&#34;&gt;hello world&lt;/h1&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.&lt;/p&gt;
 
@@ -24,7 +23,7 @@
 
 &lt;hr /&gt;
 
-&lt;h4 id=&#34;lorem-ipsum-dolor&#34;&gt;Lorem ipsum dolor.&lt;/h4&gt;
+&lt;h3 id=&#34;lorem-ipsum-dolor&#34;&gt;Lorem ipsum dolor.&lt;/h3&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.&lt;/p&gt;
 </description>
