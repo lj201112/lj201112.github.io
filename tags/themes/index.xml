@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Themes on Blog Title</title>
+    <title>Themes on 明月清风</title>
     <link>https://lj201112.github.io/tags/themes/index.xml</link>
-    <description>Recent content in Themes on Blog Title</description>
+    <description>Recent content in Themes on 明月清风</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cn</language>
+    <copyright>HHHo</copyright>
     <atom:link href="https://lj201112.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
