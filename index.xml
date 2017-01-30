@@ -1096,6 +1096,20 @@ $ vi themes/zafta/layouts/_default/single.html
     </item>
     
     <item>
+      <title>测试</title>
+      <link>https://lj201112.github.io/post/test/</link>
+      <pubDate>Mon, 30 Jan 2017 22:56:47 +0800</pubDate>
+      
+      <guid>https://lj201112.github.io/post/test/</guid>
+      <description>
+
+&lt;h1 id=&#34;测试&#34;&gt;测试&lt;/h1&gt;
+
+&lt;p&gt;本页仅做测试用&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://lj201112.github.io/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>

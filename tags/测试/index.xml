@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试 on 明月清风</title>
+    <link>https://lj201112.github.io/tags/%E6%B5%8B%E8%AF%95/index.xml</link>
+    <description>Recent content in 测试 on 明月清风</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <atom:link href="https://lj201112.github.io/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>测试</title>
+      <link>https://lj201112.github.io/post/test/</link>
+      <pubDate>Mon, 30 Jan 2017 22:56:47 +0800</pubDate>
+      
+      <guid>https://lj201112.github.io/post/test/</guid>
+      <description>
+
+&lt;h1 id=&#34;测试&#34;&gt;测试&lt;/h1&gt;
+
+&lt;p&gt;本页仅做测试用&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
